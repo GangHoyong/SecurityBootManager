@@ -41,3 +41,8 @@ Project Introduce
 ## Used OpenSource List
 - Grub2 : GPLv3.0 License : [Grub2 Site](https://www.gnu.org/software/grub/)
 - iPXE : GPLv2.0 License : [iPXE Site](http://ipxe.org/)
+
+## Update history List
+   - [V1.0 Grub based Security Multi-Bootloader System](https://github.com/kbu1564/SecurityBootloader) : Android phone 이용한 부팅제어 시스템
+   - V1.1 SecurityBootManager CoreLibrary : 부팅 시 주변 환경 정보를 얻을 수 있는 Framwork 
+    
